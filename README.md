@@ -1,2 +1,5 @@
 # Spotify-Clone
-we develop this project with the help of - HTML | CSS  • In Spotify Clone we try to create new playlist for user whatever he want...
+The Spotify clone project aims to recreate the user interface and design of the 
+Spotify music streaming platform using HTML and CSS. The project won't have 
+functional back-end components like user accounts or music playback, but it will 
+focus on accurately reproducing the front-end layout and styling.
